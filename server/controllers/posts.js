@@ -1,4 +1,4 @@
-import Memory from "../models/blog.js"
+import Memory from "../models/blog.js";
 
 export const getPost = (req,res) => {
     try {
